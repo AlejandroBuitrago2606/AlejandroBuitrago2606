@@ -1,81 +1,51 @@
-<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAHF1Gh2msk/h3wUsEngQGT_eZT6hS40pg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
+<!-- VISTAS DEL PERFIL -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+
+<!-- TROFEOS GITHUB -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
+
+<!-- BREVE DESCRIPCION -->
+- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+
+- 🌱 I am currently in the race **Software Design and Development**
+
+- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+
+- 📫 How to reach me **davidmramos30@gmail.com**
+
+<!-- CONTACTO -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anderson-mendoza-ramos-7551141b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+<a href="https://discord.gg/fpUtBrbKU5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
+<a href="https://twitter.com/andersonmr5302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
+<a href="https://instagram.com/anderson_mend53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+</p>
+
+<!-- LENGUAJES Y HERRAMIENTAS -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="android_studio" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/> </a></p>
+
+<!-- STATS Y LENGUAJES MAS USADOS -->
+<div style="display:grid;align-items:center;justify-content:center">
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=andermendoza&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andermendoza&layout=compact&theme=gotham&langs_count=8"/>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHF1Gh2msk&#x2F;h3wUsEngQGT_eZT6hS40pg&#x2F;view?utm_content=DAHF1Gh2msk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Alejandro Gonzalez</a>
 
-# 👨‍💻 Yuber Alejandro Buitrago Gonzalez
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
-## 🚀 Backend Developer | Database Modeling | Web & Desktop Applications
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-Soy desarrollador enfocado en el crecimiento continuo y el aprendizaje constante, con experiencia en desarrollo **back-end**, modelamiento de bases de datos y construcción de soluciones orientadas a necesidades reales de negocio.
+------
 
-Me interesa crear sistemas eficientes, escalables y bien estructurados, aplicando buenas prácticas de desarrollo y comprendiendo tanto la parte técnica como la operación real de las empresas.
+Credit: [Anderson Mendoza](https://github.com/andermendoza)
 
----
-
-## 🧰 Tecnologías y herramientas
-
-### 💻 Lenguajes
-- PHP
-- C#
-- SQL
-
-### ⚙️ Frameworks & Backend
-- Laravel
-- ASP.NET
-- Desarrollo de API REST
-- Servicios Web
-
-### 🗄️ Bases de Datos
-- Diseño y modelamiento relacional
-- SQLite
-- MySQL / SQL Server
-- Optimización y estructura de datos
-
-### 🧩 Áreas de experiencia
-- Aplicaciones de escritorio
-- Desarrollo web backend
-- Sistemas de inventario
-- Facturación y control operativo
-- Gestión y análisis de información comercial
-
----
-
-## 📊 Experiencia complementaria
-
-Cuento con experiencia operativa en:
-- Manejo de caja
-- Procesos de facturación
-- Control de inventarios
-- Generación de reportes de ingresos
-
-Esto me permite entender cómo los sistemas impactan directamente la operación diaria de un negocio y diseñar soluciones más alineadas con la realidad empresarial.
-
----
-
-## 🎯 Enfoque profesional
-
-- Aprendizaje continuo
-- Trabajo en equipo
-- Resolución de problemas reales
-- Desarrollo orientado a backend
-- Mejora constante de arquitectura y bases de datos
-
----
-
-## 📫 Contacto
-
-- 📧 Email: alejo.yb06@gmail.com
-- 🌎 Colombia
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlejandroBuitrago2606&theme=vue-dark&locale=es)](https://git.io/streak-stats)
-
-
-
-[![Alejo GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/AlejandroBuitrago2606/github-readme-stats)
+Last Edited on: 26/09/2022
