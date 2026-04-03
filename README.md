@@ -16,7 +16,7 @@ Desarrollador backend • Modelado de bases de datos • API REST • Laravel y 
 
 ## 🚀 Sobre mí
 
-- 🔭 Desarrollo de sistemas backend y soluciones a problematicas reales
+- 🔭 Desarrollo sistemas backend y soluciones a problematicas reales
 - 🌱 Aprendo constantemente nuevas tecnologías y arquitectura de software
 - 🧠 Me especializo en desarrollo backend y diseño de bases de datos
 - 🔌 Tengo experiencia en la creación de API REST
