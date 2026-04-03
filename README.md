@@ -14,13 +14,13 @@ Backend Developer • Database Modeling • API REST • Laravel & ASP.NET
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-- 🔭 Currently developing backend systems and inventory solutions
-- 🌱 Constantly learning new technologies and software architecture
-- 🧠 Focused on Backend Development & Database Design
-- 🔌 Experience building REST APIs and business systems
-- 📊 Knowledge of real business workflows (billing, inventory & reporting)
+- 🔭 Actualmente desarrollo sistemas backend y soluciones a problematicas reales
+- 🌱 Aprendo constantemente nuevas tecnologías y arquitectura de software
+- 🧠 Me especializo en desarrollo backend y diseño de bases de datos
+- 🔌 Tengo experiencia en la creación de API REST
+- 📊 Conocimiento de flujos de trabajo empresariales reales (facturación, inventario e informes).
 
 ---
 
@@ -41,7 +41,7 @@ Backend Developer • Database Modeling • API REST • Laravel & ASP.NET
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <p align="center">
 
@@ -53,7 +53,7 @@ Backend Developer • Database Modeling • API REST • Laravel & ASP.NET
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contributiones
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroBuitrago2606&theme=vue-dark&hide_border=true"/>
@@ -61,29 +61,25 @@ Backend Developer • Database Modeling • API REST • Laravel & ASP.NET
 
 ---
 
-## 📈 Activity Graph
+## 📈 Actividad
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroBuitrago2606&theme=react-dark&hide_border=true"/>
 
 ---
 
-## 💼 Professional Profile
+## 💼 Perfil Profesional
 
-- 💻 Desktop Applications Development
-- 🗄️ Relational Database Modeling
-- 🌐 Web Development (Laravel & ASP.NET)
-- 🔌 REST API & Web Services
-- 📊 Inventory and Billing Systems
+- 💻 Desarrollo de Aplicaciones de Escritorio
+- 🗄️ Modelado de Bases de Datos Relacionales
+- 🌐 Desarrollo Web (Laravel y ASP.NET)
+- 🔌 API REST y Servicios Web
+- 📊 Sistemas de Inventario y Facturación
 
-Experience understanding real business operations:
-- Cash handling
-- Billing processes
-- Inventory control
-- Commercial reporting
-
----
-
-## 🤝 Connect With Me
+Experiencia en el funcionamiento de negocios reales:
+- Manejo de efectivo
+- Procesos de facturación
+- Control de inventario
+- Informes comerciales
 
 <p align="center">
 
