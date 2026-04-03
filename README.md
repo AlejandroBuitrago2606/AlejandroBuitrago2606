@@ -1,9 +1,9 @@
 <h1 align="center">
-  👨‍💻 Hello, I'm Alejandro Gonzalez
+  👨‍💻 Hola soy Alejandro Gonzalez 👋
 </h1>
 
 <p align="center">
-Backend Developer • Database Modeling • API REST • Laravel & ASP.NET
+Desarrollador backend • Modelado de bases de datos • API REST • Laravel y ASP.NET
 </p>
 
 <br>
@@ -16,7 +16,7 @@ Backend Developer • Database Modeling • API REST • Laravel & ASP.NET
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente desarrollo sistemas backend y soluciones a problematicas reales
+- 🔭 Desarrollo de sistemas backend y soluciones a problematicas reales
 - 🌱 Aprendo constantemente nuevas tecnologías y arquitectura de software
 - 🧠 Me especializo en desarrollo backend y diseño de bases de datos
 - 🔌 Tengo experiencia en la creación de API REST
